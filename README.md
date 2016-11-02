@@ -7,3 +7,11 @@ bla
 bla
 bla
 -----------------------
+tästä alkaa muutokset readme-branch -haaralle
+fgfgfgfg
+fffgfgfgfg
+fgfgfgfgfgfg
+gfgfgfgfgfgf
+fgffgfgffg
+gfgfgfgfgfgf
+-----------------------
